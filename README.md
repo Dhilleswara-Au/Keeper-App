@@ -38,6 +38,8 @@ It allows users to efficiently **add, view, and delete notes** with a clean and 
 
 4. Open http://localhost:3000 in your browser
 
+---
+
 ## 📌 Future Improvements
 
 - ✨ Add edit functionality for notes
